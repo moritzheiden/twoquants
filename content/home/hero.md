@@ -37,10 +37,10 @@ hero_media = "hero-academic.jpg"
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 [cta]
-  url = "/blog"
-  label = "Discover our blog"
-  icon_pack = "fas"
-  icon = "glass-whiskey"
+  #url = "/blog"
+  #label = "Discover our blog"
+  #icon_pack = "fas"
+  #icon = "glass-whiskey"
   
 #[cta_alt]
  #url = "https://sourcethemes.com/academic/"
@@ -49,8 +49,9 @@ hero_media = "hero-academic.jpg"
 # Note. An optional note to show underneath the links.
 #[cta_note]
 # label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-#repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
-#+++
++++
 
 **... walk into a bar**
 
 A blog about quantitative investing, systematic strategies and data driven research.
+
