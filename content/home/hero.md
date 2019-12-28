@@ -5,10 +5,10 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 1  # Order that this section will appear.
 
-title = "Two Quants ..."
+title = "Two Quants"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media = "hero-academic.jpg"
+hero_media = ""
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -20,15 +20,15 @@ hero_media = "hero-academic.jpg"
   # color = "navy"
   
   # Background gradient.
-   gradient_start = "#4bb4e3"
-   gradient_end = "#2b94c3"
+   #gradient_start = "#4bb4e3"
+   #gradient_end = "#2b94c3"
   
   # Background image.
-   #image = "hero-academic.jpg"  # Name of image in `static/img/`.
-   #image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
-   #image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
-   #image_position = "center"  # Options include `left`, `center` (default), or `right`.
-   #image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
+   image = "hero-academic.jpg"  # Name of image in `static/img/`.
+   image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+   image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
+   image_position = "center"  # Options include `left`, `center` (default), or `right`.
+   image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
   
   # Text color (true=light or false=dark).
   text_color_light = true
@@ -51,7 +51,7 @@ hero_media = "hero-academic.jpg"
 # label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-#repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-**... walk into a bar**
+**walk into a bar**
 
 A blog about quantitative investing, systematic strategies and data driven research.
 
