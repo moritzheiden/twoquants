@@ -13,8 +13,6 @@ header:
   image: "/img/blog/pic_bar2.jpg"
 authors:
 - mh
-image:
-  image: "/img/blog/pic_bar.png"
 featured: true
 
 ---
