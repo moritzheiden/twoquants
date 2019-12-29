@@ -35,6 +35,11 @@ fields:
     label: focal_point
     description: Image Focal Point (Smart, Center, TopLeft, Top, TopRight, Left, Right,
       BottomLeft, Bottom, BottomRight)
+  - name: image
+    type: file
+    config:
+      maxSize: 250
+    label: image
 - name: projects
   type: list
   config:
@@ -48,3 +53,8 @@ fields:
   type: boolean
   label: featured
   description: You can filter by featured content on your homepage
+- name: twitterImg
+  type: file
+  config:
+    maxSize: 250
+  label: twitterImg
