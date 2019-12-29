@@ -34,5 +34,3 @@ Academic paper of the week: [Financial ratios and stock returns reappraised thro
  data analysis lens](https://arxiv.org/abs/1911.10297) by Pawel Dlotko, Wanling Qiu, Simon Rudkin.
 
 Sounds crazier than it really is. The authors demonstrate the usability of an algorithm to analyze complicated and noisy data, the so called [TDA (topological data analysis) Ball Mapper](https://arxiv.org/pdf/1901.07410.pdf). For their application, they use a set of anomalies from the asset pricing literature and visualize the multi dimensional data into a two dimensional abstract graph to spot patterns if relationships within the data. A fun and interesting way to interpret factors. In their visual interpretation high book-to-market stocks seem to yield below average return on equity, which should sound very familiar to the current crowd of value investors.
-
-![Financial ratios and stock returns reappraised through a topological data analysis lens. Dlotko, Qiu, Rudkin, 2019.](/img/tda.jpg)
