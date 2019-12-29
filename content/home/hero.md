@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 1  # Order that this section will appear.
 
-title = "Two Quants"
+title = "Two Quants walk into a bar"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 hero_media = ""
@@ -50,8 +50,6 @@ hero_media = ""
 #[cta_note]
 # label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-#repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
-
-**walk into a bar**
 
 A blog about quantitative investing, systematic strategies and data driven research.
 
