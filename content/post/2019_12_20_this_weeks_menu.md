@@ -1,17 +1,19 @@
 ---
 title: 2019-12-20 - This weeks menu
-date: '2019-12-20T01:05:00+01:00'
+date: 2019-12-20T01:05:00+01:00
 lastmod: '2019-12-20T01:05:00+01:00'
-draft: false
 tags:
-  - research
-  - newsletter
-  - weekly
-twitterImg: /img/blog/pic_bar2.jpg
+- research
+- newsletter
+- weekly
+twitterImg: "/img/blog/pic_bar2.jpg"
 summary: Your weekly dose of liquid brainfood
 header:
   caption: ''
-  image: /img/blog/pic_bar2.jpg
+  image: "/img/blog/pic_bar2.jpg"
+authors:
+- mh
+
 ---
 Our weekly review of things that caught our attention. Some things new, some things aged. Just like a good wine. From easily digestible to the hard stuff. 
 
