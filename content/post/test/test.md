@@ -7,10 +7,11 @@ subtitle = "test"
 summary = ""
 tags = []
 title = "test"
-twitterImg = "/img/blog/places-bangkok-rabbit-hole-01.jpg"
+twitterImg = "/blog/places-bangkok-rabbit-hole-01.jpg"
 [image]
 caption = ""
-image = "/img/blog/places-bangkok-rabbit-hole-01.jpg"
-
+image = "/blog/places-bangkok-rabbit-hole-01.jpg"
+featured: false
+preview_only = true
 +++
 test
