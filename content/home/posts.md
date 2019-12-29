@@ -4,7 +4,7 @@ headless = true
 subtitle = ""
 title = nil
 weight = 60
-widget = "pages"
+widget = "portfolio"
 [advanced]
 css_class = ""
 css_style = ""
