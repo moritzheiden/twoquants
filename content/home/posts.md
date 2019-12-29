@@ -1,6 +1,6 @@
 +++
 active = true
-headless = false
+headless = true
 subtitle = ""
 title = nil
 weight = 60
