@@ -13,6 +13,7 @@ header:
   image: "/img/blog/pic_bar.png"
 authors:
 - mh
+featured: true
 
 ---
 Our weekly review of things that caught our attention. Some things new, some things aged. Just like a good wine. From easily digestible to the hard stuff.
