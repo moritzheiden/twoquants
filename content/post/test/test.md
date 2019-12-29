@@ -10,9 +10,7 @@ title = "test"
 twitterImg = "/img/blog/places-bangkok-rabbit-hole-01.jpg"
 [image]
 caption = ""
-focal_point = ""
-image = ""
-placement = nil
+image = "/img/blog/places-bangkok-rabbit-hole-01.jpg"
 
 +++
 test
