@@ -11,10 +11,6 @@ summary: Our weekly review of things that caught our attention. Some things new,
   things aged. Just like a good wine. From easily digestible to the hard stuff.
 header:
   image: "/blog/pic_bar.png"
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: true
 authors:
 - mh
 featured: true
