@@ -35,7 +35,7 @@ sections:
   match: "*"
 upload_dir: static/img/blog
 public_path: "/img"
-front_matter_path: ''
+front_matter_path: "/blog"
 use_front_matter_path: true
 file_template: ":filename:"
 build:
