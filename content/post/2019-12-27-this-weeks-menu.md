@@ -1,16 +1,18 @@
 ---
 title: 2019-12-27 - This weeks menu
-date: 2019-12-27T14:00:27+01:00
-lastmod: 2019-12-27T14:00:27+01:00
+date: 2019-12-27T13:00:27.000+00:00
+lastmod: '2019-12-27T13:00:27.000+00:00'
 tags:
 - research
 - newsletter
 - weekly
-twitterImg: /img/blog/pic_bar.jpg
+twitterImg: "/img/blog/pic_bar.jpg"
 summary: Our weekly review of things that caught our attention. Some things new, some
   things aged. Just like a good wine. From easily digestible to the hard stuff.
 header:
   image: "/img/blog/pic_bar.png"
+authors:
+- mh
 
 ---
 Our weekly review of things that caught our attention. Some things new, some things aged. Just like a good wine. From easily digestible to the hard stuff.
