@@ -14,9 +14,6 @@ header:
 authors:
 - mh
 featured: true
-image:
-  image: "/img/blog/places-bangkok-rabbit-hole-01.jpg"
-
 ---
 Our weekly review of things that caught our attention. Some things new, some things aged. Just like a good wine. From easily digestible to the hard stuff.
 
