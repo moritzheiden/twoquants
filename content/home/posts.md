@@ -2,7 +2,7 @@
 active = true
 headless = true
 subtitle = ""
-title = nil
+title = ""
 weight = 60
 widget = "portfolio"
 [advanced]
@@ -19,7 +19,11 @@ exclude_featured = false
 publication_type = ""
 tag = ""
 [design]
+# Choose how many columns the section has. Valid values: 1 or 2.
+columns = "2"
 view = 3
+flip_alt_rows = false
+
 [design.background]
 
 +++
