@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Moritz Heiden
+name: 
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: The Quant
+role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations
 organizations:

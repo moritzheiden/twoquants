@@ -1,16 +1,16 @@
 ---
 # Display name
-name: Moritz Heiden
+name: Moritz Seibert
 
 # Username (this should match the folder name)
 authors:
-- mh
+- ms
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: The Quant
+role: The Trader
 
 # Organizations/Affiliations
 organizations:
