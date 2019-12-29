@@ -1,6 +1,6 @@
 ---
 title: 2019-12-20 - This weeks menu
-date: 2019-12-20T01:05:00+01:00
+date: 2019-12-20T00:05:00.000+00:00
 lastmod: '2019-12-20T01:05:00+01:00'
 tags:
 - research
@@ -13,6 +13,8 @@ header:
   image: "/img/blog/pic_bar2.jpg"
 authors:
 - mh
+image:
+  image: "/img/blog/pic_bar.png"
 
 ---
 Our weekly review of things that caught our attention. Some things new, some things aged. Just like a good wine. From easily digestible to the hard stuff. 
