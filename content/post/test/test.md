@@ -11,7 +11,7 @@ twitterImg = "/blog/places-bangkok-rabbit-hole-01.jpg"
 [image]
 caption = ""
 image = "/blog/places-bangkok-rabbit-hole-01.jpg"
-featured: false
+featured = false
 preview_only = true
 +++
 test
