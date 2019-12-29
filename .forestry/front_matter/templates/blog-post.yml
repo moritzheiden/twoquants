@@ -27,6 +27,12 @@ fields:
   - type: text
     name: caption
     label: caption
+  - name: placement
+    type: text
+    config:
+      required: false
+    label: placement
+    hidden: false
   - name: image
     type: file
     config:
