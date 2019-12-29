@@ -29,11 +29,6 @@ sections:
   templates:
   - event
 - type: directory
-  path: content/publication
-  label: Publications
-  create: all
-  match: "**/*"
-- type: directory
   path: content
   label: Pages
   create: all
