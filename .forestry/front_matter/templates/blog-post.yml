@@ -56,5 +56,3 @@ fields:
   config:
     maxSize: 250
   label: twitterImg
-pages:
-- content/post/test/test.md

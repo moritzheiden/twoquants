@@ -7,7 +7,8 @@ tags:
 - newsletter
 - weekly
 twitterImg: "/img/blog/pic_bar2.jpg"
-summary: Your weekly dose of liquid brainfood
+summary: Reflections on 2019 made simple. Why Trend-following hasn't performed as
+  expected and a topological data analysis recommendation.
 header:
   caption: ''
   image: "/img/blog/pic_bar2.jpg"
