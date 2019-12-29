@@ -6,11 +6,9 @@ tags:
 - research
 - newsletter
 - weekly
-twitterImg: "/img/blog/pic_bar.jpg"
+twitterImg: "/blog/pic_bar.jpg"
 summary: Our weekly review of things that caught our attention. Some things new, some
   things aged. Just like a good wine. From easily digestible to the hard stuff.
-header:
-  image: "/blog/pic_bar.png"
 image:
   caption: ""
   focal_point: ""
