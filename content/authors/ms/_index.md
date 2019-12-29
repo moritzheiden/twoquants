@@ -21,11 +21,11 @@ organizations:
 bio: Short term gain is long term wisdom
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- The Systematic Investor Podcast
 
-education: yes
+education:
+  courses:
+  - course: Yes
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
