@@ -13,9 +13,9 @@ header:
   caption: ''
   image: /img/blog/pic_bar2.jpg
 ---
-Our weekly review of things that caught our attention. Some things new, some things aged. Just like a good wine. From easily digestible to the hard stuff.
+Our weekly review of things that caught our attention. Some things new, some things aged. Just like a good wine. From easily digestible to the hard stuff. 
 
-## Apéritif
+## ApÃ©ritif
 
 * Reflections on 2019 made simple: [Use the BlackRock Geopolitical Risk Index as a substitute for year-end reviews](https://mrzepczynski.blogspot.com/2019/12/use-blackrock-geopolitical-risk-index.html)
 * Why Trend-following hasn't performed as expected in the last decade compared to a 140 year sample. **Hint:** it has to do with the average market moves being more muted. [You Can't Always Trend When You Want, by Babu, Hoffman, Levine, Ooi, Schroeder, and Stamelos (AQR)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3487134)
