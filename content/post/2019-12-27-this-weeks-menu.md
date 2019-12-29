@@ -15,7 +15,7 @@ header:
 ---
 Our weekly review of things that caught our attention. Some things new, some things aged. Just like a good wine. From easily digestible to the hard stuff.
 
-## Apéritif
+## ApÃ©ritif
 
 Discussed on Twitter and the [Systematic Investor Podcast](https://www.toptradersunplugged.com/systematic-investor-series-67/): [The illiquidity discount](https://www.aqr.com/Insights/Perspectives/The-Illiquidity-Discount) by Cliff Asness. The main question of the article and the ensuing discussion concerns the question if investors are actually willing to pay a higher price and accept a lower expected return for very illiquid assets.
 
@@ -34,7 +34,7 @@ It reminded me of a [2013 paper by Heiko Jacobs and Alexander Hillert on the alp
 > thrive: alphabetism. This \[...\] refers to discrimination against those whose surnames begin
 > with a letter in the lower half of the alphabet."
 >
-> _The Economist., 2001, As easy as ZYX,€ Vol. 360, No. 8237, p. 13._
+> _The Economist., 2001, As easy as ZYX, Vol. 360, No. 8237, p. 13._
 
 The article is concerned with our human tendency not to scroll much further than the first few pages in any document. For academia, the bias presents itself in the likelihood of
 
@@ -54,7 +54,7 @@ investors with lower transaction costs, and firms among others with broader owne
 
 We finish this week with a quick reminder by [Dan Popescu](https://twitter.com/PopescuCo):
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Germans are queuing at Degussa store to buy <a href="https://twitter.com/hashtag/gold?src=hash&amp;ref_src=twsrc%5Etfw">#gold</a> in Köln. From Jan. 1, 2020, the limit to buy gold anonymously drops from ?10,000 down to ?2,000. Only two years ago the limit was ?15,000. <a href="https://t.co/vhuZTBPA0Y">pic.twitter.com/vhuZTBPA0Y</a></p>&mdash; ???? ????????Dan Popescu ???????????? (@PopescuCo) <a href="https://twitter.com/PopescuCo/status/1209559269382787072?ref_src=twsrc%5Etfw">December 24, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Germans are queuing at Degussa store to buy <a href="https://twitter.com/hashtag/gold?src=hash&amp;ref_src=twsrc%5Etfw">#gold</a> in KÃ¶ln. From Jan. 1, 2020, the limit to buy gold anonymously drops from ?10,000 down to ?2,000. Only two years ago the limit was ?15,000. <a href="https://t.co/vhuZTBPA0Y">pic.twitter.com/vhuZTBPA0Y</a></p>&mdash; ???? ????????Dan Popescu ???????????? (@PopescuCo) <a href="https://twitter.com/PopescuCo/status/1209559269382787072?ref_src=twsrc%5Etfw">December 24, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Officially, decreasing the limit on ability of buying physicial anonymously is meant to [battle money laundering](https://news.bitcoin.com/germans-rush-to-buy-gold-as-draft-bill-threatens-to-restrict-purchases/). Risk averse Germans who anyway have a [tendency to hoard gold](https://www.zerohedge.com/news/2019-04-28/vast-gold-hoards-held-germanys-population) might want to have a deeper look into exchange traded Xetra Gold where prices showed some interesting jumps over the last days:
 
