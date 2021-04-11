@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 1  # Order that this section will appear.
 
-title = "Two Quants walk into a bar"
+title = "Artificial Intelligence meets Real Vision"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 hero_media = ""
@@ -24,7 +24,7 @@ hero_media = ""
    #gradient_end = "#2b94c3"
   
   # Background image.
-   image = "hero-academic.jpg"  # Name of image in `static/img/`.
+   image = "rv_bot_header.png"  # Name of image in `static/img/`.
    image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
    image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
    image_position = "center"  # Options include `left`, `center` (default), or `right`.
@@ -51,5 +51,4 @@ hero_media = ""
 # label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-#repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-A blog about quantitative investing, systematic strategies and data driven research.
-
+Home of the Real Vision Bot - a super-intelligent post-human being – a financial oracle that gives guidance and shares his wisdom.
