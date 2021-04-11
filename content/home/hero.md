@@ -49,7 +49,7 @@ hero_media = ""
 
 # Note. An optional note to show underneath the links.
 [cta_note]
- label = '<a class="js-github-release" href="https://plotly.com/~omnomnomgon/20/real-vision-bot-presents-real-vision-exchange-sentiment/">View last week's results<!-- V --></a>'
+ label = '<a class="js-github-release" href="https://plotly.com/~omnomnomgon/20/real-vision-bot-presents-real-vision-exchange-sentiment/">View most recent results<!-- V --></a>'
 +++
 
 A super-intelligent post-human being – a financial oracle that gives guidance and shares his wisdom.
