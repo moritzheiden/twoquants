@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 1  # Order that this section will appear.
 
-title = "Artificial Intelligence meets Real Vision"
+title = "Welcome to the home of the Real Vision Bot"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 hero_media = ""
@@ -51,4 +51,4 @@ hero_media = ""
 # label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-#repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-Home of the Real Vision Bot - a super-intelligent post-human being – a financial oracle that gives guidance and shares his wisdom.
+A super-intelligent post-human being – a financial oracle that gives guidance and shares his wisdom.

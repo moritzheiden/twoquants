@@ -1,13 +1,13 @@
 ---
-title: Boing
-date: 2019-12-27T13:00:27.000+00:00
-lastmod: '2019-12-27T13:00:27.000+00:00'
+title: What? How? Why?
+date: 2021-11-04T13:00:27.000+00:00
+lastmod: '2021-11-04T13:00:27.000+00:00'
 tags:
 - research
 - newsletter
 - weekly
 twitterImg: "/blog/header.jpg"
-summary: Welcome to the new website
+summary: About the Real Vision Bot
 header:
   image: "/blog/header.png"
 image:
