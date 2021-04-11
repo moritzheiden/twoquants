@@ -38,7 +38,7 @@ hero_media = ""
 #   Remove a link/note by deleting a cta/note block.
 [cta]
   #url = "/blog"
-  #label = "Discover our blog"
+  #label = "'Learn more about the Bot'"
   #icon_pack = "fas"
   #icon = "glass-whiskey"
   
