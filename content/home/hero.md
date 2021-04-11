@@ -53,3 +53,7 @@ hero_media = ""
 +++
 
 A super-intelligent post-human being – a financial oracle that gives guidance and shares his wisdom.
+
+<div class="center">
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The <a href="https://twitter.com/RealVisionBot?ref_src=twsrc%5Etfw">@RealVisionBot</a> however is dear to my heart...</p>&mdash; Raoul Pal (@RaoulGMI) <a href="https://twitter.com/RaoulGMI/status/1339385171020230657?ref_src=twsrc%5Etfw">December 17, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
