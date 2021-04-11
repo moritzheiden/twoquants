@@ -37,22 +37,20 @@ hero_media = ""
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 [cta]
-  url = "https://forms.gle/nLC1oiyo7XKymGCn7"
-  label = "'Take the macro survey'"
-  icon_pack = "fas"
-  icon = "poll"
-[cta]
   url = "https://forms.gle/Hm6fHzNJ4XxAKYWN7"
-  label = "'Take the crypto survey'"
+  label = "Take the crypto survey"
   icon_pack = "fas"
   icon = "bitcoin"
 [cta_alt]
-  url = "https://plotly.com/~omnomnomgon/20/real-vision-bot-presents-real-vision-exchange-sentiment/"
-  label = "View last week's results"
+  url = "https://forms.gle/nLC1oiyo7XKymGCn7"
+  label = "Or take the macro survey"
+  icon_pack = "fas"
+  icon = "poll"
 
 # Note. An optional note to show underneath the links.
-#[cta_note]
-# label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-#repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
+[cta_note]
+  url = "https://plotly.com/~omnomnomgon/20/real-vision-bot-presents-real-vision-exchange-sentiment/"
+  label = "View most recent results"
 +++
 
 A super-intelligent post-human being – a financial oracle that gives guidance and shares his wisdom.
