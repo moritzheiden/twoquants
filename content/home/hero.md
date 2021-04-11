@@ -37,14 +37,18 @@ hero_media = ""
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 [cta]
-  #url = "/blog"
-  #label = "'Learn more about the Bot'"
-  #icon_pack = "fas"
-  #icon = "glass-whiskey"
-  
-#[cta_alt]
- #url = "https://sourcethemes.com/academic/"
-  #label = "View Documentation"
+  url = "https://forms.gle/nLC1oiyo7XKymGCn7"
+  label = "'Take the macro survey'"
+  icon_pack = "fas"
+  icon = "poll"
+[cta]
+  url = "https://forms.gle/Hm6fHzNJ4XxAKYWN7"
+  label = "'Take the crypto survey'"
+  icon_pack = "fas"
+  icon = "bitcoin"
+[cta_alt]
+  url = "https://plotly.com/~omnomnomgon/20/real-vision-bot-presents-real-vision-exchange-sentiment/"
+  label = "View last week's results"
 
 # Note. An optional note to show underneath the links.
 #[cta_note]
