@@ -6,7 +6,7 @@ tags:
 - research
 - newsletter
 - weekly
-twitterImg: "/blog/header.jpg"
+twitterImg: "/blog/header.png"
 summary: About the Real Vision Bot
 header:
   image: "/blog/header.png"
