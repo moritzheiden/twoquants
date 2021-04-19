@@ -21,6 +21,5 @@ featured: true
 # The dashboards
 
 # Macro dashboard
-<a href="/content/dashboards/real_vision_macro_survey_dashboard.html" title="Got to the Macro Dashboard">Got to the Macro Dashboard</a>
 
 # Crypto dashboard
